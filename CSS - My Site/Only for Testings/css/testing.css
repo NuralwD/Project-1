@@ -1,0 +1,15 @@
+.top {
+  height: 100px;
+width: 100px;
+  background-color: red;
+position: absolute;
+left: 100px
+}
+
+.mid {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  
+}
